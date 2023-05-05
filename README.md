@@ -1,5 +1,3 @@
-## Next 13 template
+## Hit Counter exercise
 
-This is a _super minimal_ starter for Next 13's App Router.
-
-Not intended for use in production. Purely used for educational reasons.
+Your mission is to add a working hit counter to the homepage, by using `database.json` as the source of truth.
